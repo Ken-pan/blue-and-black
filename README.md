@@ -1,10 +1,10 @@
-# Blue & Black
+# Duoquill
 
 Blue ideas. Clear stories. A collection for presentations, product pages and everyday visual thinking.
 
-![Blue & Black artwork](png/scene-05-collaborate.png)
+![Duoquill artwork](png/scene-05-collaborate.png)
 
-[Browse the gallery](https://ken-pan.github.io/blue-and-black/) · [Download the complete pack](https://github.com/Ken-pan/blue-and-black/releases/latest) · [License scope](ASSET_LICENSES.md)
+[Browse the gallery](https://ken-pan.github.io/duoquill/) · [Download the complete pack](https://github.com/Ken-pan/duoquill/releases/latest) · [License scope](ASSET_LICENSES.md)
 
 92 scenes (1536 × 1024), 100 spot illustrations (1254 × 1254), and 12 characters (1024 × 1536). Original image bytes are preserved, with SHA-256 hashes in manifest.json. Transparent raster artwork, ready for slides, websites, notes and apps. The gallery supports search, group filters, light/dark/checkered previews and individual downloads. Filter to 24 images or fewer to download a smaller PNG ZIP. Smaller ZIPs include a PNG-only catalog, generation records, CC0 and MIT notices; only one runs at a time. The gallery can also recolor the blue pigment without changing the original files.
 
@@ -34,6 +34,10 @@ Open http://127.0.0.1:4400. Serve over HTTP; opening index.html directly with fi
 
 ## 中文
 
-Blue & Black 是独立发布的素材库：204 张原创 AI 生成素材。图片按 CC0 1.0 在作者持有权利范围内开放，可用于商业和闭源项目，无须署名；图库代码按 MIT 开源。原图、生成记录和校验值均保留。AI 生成素材不保证独占，也不保证在所有地区受著作权保护；第三方商标、肖像等权利仍需按具体用途判断。部分浅色边缘适合浅色背景，改色不会自动去除这些边缘。
+Duoquill 是独立发布的素材库：204 张原创 AI 生成素材。图片按 CC0 1.0 在作者持有权利范围内开放，可用于商业和闭源项目，无须署名；图库代码按 MIT 开源。原图、生成记录和校验值均保留。AI 生成素材不保证独占，也不保证在所有地区受著作权保护；第三方商标、肖像等权利仍需按具体用途判断。部分浅色边缘适合浅色背景，改色不会自动去除这些边缘。
 
 Contributions and rights requirements: [CONTRIBUTING.md](CONTRIBUTING.md). Security reporting: [SECURITY.md](SECURITY.md).
+
+## Name change
+
+Duoquill was previously published as Blue & Black. Version 1.0.2 changes the public name and links; the original artwork and asset IDs are identical. Old GitHub repository links redirect to this repository. The gallery now lives at https://ken-pan.github.io/duoquill/.

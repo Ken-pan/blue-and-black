@@ -1,6 +1,6 @@
 {
-  "name": "blue-and-black",
-  "version": "1.0.1",
+  "name": "duoquill",
+  "version": "1.0.2",
   "private": true,
   "type": "module",
   "license": "(CC0-1.0 AND MIT)",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ken-pan/blue-and-black.git"
+    "url": "https://github.com/Ken-pan/duoquill.git"
   },
-  "homepage": "https://ken-pan.github.io/blue-and-black/"
+  "homepage": "https://ken-pan.github.io/duoquill/"
 }

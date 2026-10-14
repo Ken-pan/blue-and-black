@@ -1,8 +1,8 @@
 {
-  "name": "Blue & Black",
-  "slug": "blue-and-black",
+  "name": "Duoquill",
+  "slug": "duoquill",
   "kind": "blue",
-  "repository": "https://github.com/Ken-pan/blue-and-black",
+  "repository": "https://github.com/Ken-pan/duoquill",
   "expectedAssets": 204,
   "hero": "scene-05-collaborate",
   "secondary": "spot-01-search",

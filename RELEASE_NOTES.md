@@ -1,4 +1,8 @@
-# Blue & Black v1.0.1
+# Duoquill 1.0.2
+
+New project name, repository and gallery address. Original asset IDs, filenames, dimensions, hashes and licenses are unchanged. Earlier releases remain available.
+
+## Duoquill v1.0.1
 
 - The gallery’s complete-pack link points to its fixed release version instead of depending on the latest release.
 - One smaller ZIP runs at a time, including when filters change. PNG sizes and SHA-256 hashes are checked before packaging.
@@ -8,4 +12,4 @@
 
 The original 204 PNGs are unchanged. Artwork CC0 in the creator's held rights; gallery code MIT. AI and third-party-rights limits remain as described in ASSET_LICENSES.md.
 
-Download blue-and-black-v1.0.1.zip and check SHA256SUMS.
+Download duoquill-v1.0.1.zip and check SHA256SUMS.
