@@ -1,3 +1,7 @@
+# Duoquill 1.0.3
+
+Official gallery at https://duoquill.kens-toolbox.com/, matching Toolbox entry and explicit GitHub navigation. Original artwork and licenses are unchanged; earlier releases remain available.
+
 # Duoquill 1.0.2
 
 New project name, repository and gallery address. Original asset IDs, filenames, dimensions, hashes and licenses are unchanged. Earlier releases remain available.
